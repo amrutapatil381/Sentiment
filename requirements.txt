@@ -9,3 +9,4 @@ Pillow
 opencv-python
 numpy
 fer
+opencv-python-headless
